@@ -11,5 +11,5 @@ Projeto feito com Node + Typescript e biblioteca whatsapp-web.js
 `npm run start`
 
 ### Links para documentação da biblioteca whatsapp-web.js
-`https://wwebjs.dev/guide/#installation`
-`https://github.com/pedroslopez/whatsapp-web.js`
+- `https://wwebjs.dev/guide/#installation`
+- `https://github.com/pedroslopez/whatsapp-web.js`
